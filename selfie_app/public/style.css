@@ -1,0 +1,54 @@
+video{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    height:65%;
+    border-radius: 5%;
+   margin-bottom:3%;
+    
+}
+ input {
+  background-color: transparent;
+  color: black;
+  border: none;
+  border-bottom: 2px solid grey;
+  border-radius: 0;
+  outline: none;
+}
+
+
+h1{
+   height:auto;
+   width:auto;
+	padding:20px;
+	text-align: center;
+	font-size: 4vw;
+	
+   font-family:Arial;
+   
+
+ }
+.x{
+	text-align:right;
+
+}
+.row{
+	margin-top:3%;
+	margin-top:3%;
+	padding:4%;
+}
+
+
+
+
+@media screen and (max-width: 800px) {
+   .x{
+   padding-top:4%;
+   text-align: center;
+
+  }
+}
+
+
+
